@@ -1,2 +1,1 @@
-![About Me](/bio-gif.gif)
-
+![Sobre mi](bio-gif.gif)
