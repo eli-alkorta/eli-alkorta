@@ -1,1 +1,1 @@
-![Sobre mi](bio-gif.gif)
+![Sobre mi](bio/bio.gif)
