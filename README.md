@@ -1,1 +1,1 @@
-![About Me](bio-gif.gif)
+![Sobre mi]("https://media.giphy.com/media/dBqunXG5jVO85poi1i/giphy.gif")
