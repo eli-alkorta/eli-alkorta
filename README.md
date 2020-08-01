@@ -1,1 +1,1 @@
-![Sobre mi]("https://media.giphy.com/media/dBqunXG5jVO85poi1i/giphy.gif")
+<img src="https://giphy.com/gifs/dBqunXG5jVO85poi1i">
