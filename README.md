@@ -3,5 +3,3 @@
 </p>
 
 
-[![HitCount](http://hits.dwyl.com/{eli-alkorta}/{https://github.com/eli-alkorta}.svg)](http://hits.dwyl.com/{eli-alkorta}/{https://github.com/eli-alkorta})
-
