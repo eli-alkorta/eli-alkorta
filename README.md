@@ -3,5 +3,5 @@
 </p>
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=eli-akorta.eli-alkorta/README.md)
+[![HitCount](http://hits.dwyl.com/{eli-alkorta}/{https://github.com/eli-alkorta}.svg)](http://hits.dwyl.com/{eli-alkorta}/{https://github.com/eli-alkorta})
 
