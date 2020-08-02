@@ -3,5 +3,5 @@
 </p>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/eli-alkorta/git-badges)](https://badges.pufler.dev)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=eli-akorta.visitor-badge)
 
