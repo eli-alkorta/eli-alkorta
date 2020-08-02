@@ -2,5 +2,5 @@
 <img src="https://github.com/eli-alkorta/eli-alkorta/blob/master/bio/biomin.gif">
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{eli-alkorta}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
