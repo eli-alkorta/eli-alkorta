@@ -3,5 +3,5 @@
 </p>
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=eli-akorta.eli-alkorta)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=eli-akorta.eli-alkorta/README.md)
 
